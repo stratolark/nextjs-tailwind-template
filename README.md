@@ -1,3 +1,9 @@
+# Next.js Template with Tailwind CSS and Typescript.
+
+This a template for starting a Next.js project with Tailwind CSS and Typescript.
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
